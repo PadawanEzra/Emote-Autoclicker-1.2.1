@@ -1,0 +1,23 @@
+[How to use!]
+Hold F1 and it will spam click b and click.
+
+
+
+
+
+
+Plans for update:
+
+
+[Make the gui easier on the eyes]
+(I like the design of my gui, but I feel like the color scheme is a little off and a lil hard on the eyes.)
+
+[user can customize the gui]
+(I want it so tht the user can customize how the gui looks by themselves with ease without havin to change the code directly)
+
+[have it so they can set their own keybinds for macro]
+(pretty self explanatory, user can change it so that the macro does a different button than what is prechosen, and can change the hotkey.)
+
+
+May the force be with you! - PadawanEzraBridger
+
